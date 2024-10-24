@@ -14,7 +14,6 @@
 <ul>
     <li><strong>Frontend:</strong> <a href="https://inventory-management-frontend-5bio.onrender.com">https://inventory-management-frontend-5bio.onrender.com</a></li>
     <li><strong>Backend API:</strong> <a href="https://inventory-management-backend-ppyt.onrender.com">https://inventory-management-backend-ppyt.onrender.com</a></li>
-    <li><strong>API Documentation:</strong> <a href="https://inventory-management-backend-ppyt.onrender.com/docs">https://inventory-management-backend-ppyt.onrender.com/docs</a></li>
 </ul>
 
 <h2>✨ Features</h2>
