@@ -73,7 +73,14 @@
 <h3>UI Components</h3>
 <pre><code>- NavBar.js       // Navigation with search and product counter
 - AddProducts.js  // Product addition form
-- ProductList.js  // Display and manage products</code></pre>
+- ProductRows.js  // Display and manage products
+- ProductsTable.js  // Displays the table of products
+- SupplierPage.js   // Manages supplier interactions
+- UpdateProducts.js // Form for updating product information</code></pre>
+
+<h3>Backend Components</h3>
+<pre><code>- app.py          // Application entry point
+- models.py       // Defines database models</code></pre>
 
 <h2>🚀 Local Development Setup</h2>
 
