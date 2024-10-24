@@ -232,7 +232,7 @@ The application is fully responsive and tested on:
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License.</p>
 
-<p>Made with ❤️ using FastAPI and React</p>
+<p>Made with ❤️ using FastAPI and React by Vislavath Pavani</p>
 
 </body>
 </html>
